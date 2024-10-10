@@ -7,10 +7,10 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <strong>Intel Unnati Program</strong></li>
-        <li>🌱 I’m currently learning <strong>Langchain, LLM, Database</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>Generative AI Projects</strong></li>
-        <li>📫 How to reach me: <strong>naveenkumar19082004@gmail.com</strong></li>
+        <li>🔭 Completed the <strong>Intel Unnati Program</strong></li>
+        <li>🌱 Currently learning <strong>Data Engineering Tools</strong></li>
+        <li>👯 Looking to collaborate on <strong>Data Engineering Projects</strong></li>
+        <li>📫 Reach me at: <strong>naveenkumar19082004@gmail.com</strong></li>
       </ul>
     </td>
     <td>
